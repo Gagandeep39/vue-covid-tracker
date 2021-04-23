@@ -14,6 +14,7 @@
 - Covid Tracker App created using VueJS
 - Uses Third Party API to fetch COVID data
 - Created app using `npx @vue/cli create .`
+- Install tailwind using `npx @vue/cli add tailwind  `
 
 ## Screenshots
 

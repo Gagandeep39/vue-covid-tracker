@@ -18,7 +18,8 @@
     "yzhang.markdown-all-in-one",
     "octref.vetur",
     "mutantdino.resourcemonitor",
-    "eamodio.gitlens"
+    "eamodio.gitlens",
+    "bradlc.vscode-tailwindcss",
   ],
 
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
