@@ -1,24 +1,21 @@
-# vue-covid-tracker
+# Covid Tracker
 
-## Project setup
-```
-yarn install
-```
+- [Covid Tracker](#covid-tracker)
+  - [Deployment](#deployment)
+  - [Description](#description)
+  - [Screenshots](#screenshots)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Deployment
 
-### Compiles and minifies for production
-```
-yarn build
-```
+- Checkout deployment at <https://gagandeep39.github.io/vue-covid-tracker/>
 
-### Lints and fixes files
-```
-yarn lint
-```
+## Description
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Covid Tracker App created using VueJS
+- Uses Third Party API to fetch COVID data
+- Created app using `npx @vue/cli create .`
+
+## Screenshots
+
+![Screenshot 1](./assets/screenshot_1.png)
+![Screenshot 2](./assets/screenshot_2.png)
